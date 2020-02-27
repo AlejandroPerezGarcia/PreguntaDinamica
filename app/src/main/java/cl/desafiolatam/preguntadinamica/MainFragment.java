@@ -25,6 +25,7 @@ public class MainFragment extends Fragment {
         fragment.setArguments(argumerts);
         return fragment;
         // Required empty public constructor
+
     }
 
 
